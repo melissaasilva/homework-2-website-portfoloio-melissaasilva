@@ -1,0 +1,15 @@
+body {background-color: lavender;}
+h1 {color: indigo; text-align: center;}
+p {color: indigo; text-align: center;}
+nav {color: thistle}
+.center { display:block; margin-left:auto; margin-right: auto; width: 50% }
+.caption{color: white;background-color: rgb(0 0 0 /.5)}
+.label{color: white;background-color: rgb(0 0 0 /.5)}
+th {border: 1px solid; background-color: indigo; color:white; text-align: center;}
+td {border: 1px solid;text-align: center;}
+.robotics {background-color: lightblue;}
+.enviorment {background-color: lightcyan;}
+.capstone {background-color: lightpink;}
+.dynamics {background-color: lightyellow;}
+.discrete {background-color: lavenderblush;}
+.platform {background-color: honeydew;}
